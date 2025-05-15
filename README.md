@@ -21,7 +21,7 @@ Create `.env` in `/server`:
 PORT=5000
 ```
 
-If needed in `/client`:
+`/client`:
 
 ```env
 VITE_API_URL=http://localhost:5000/api
